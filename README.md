@@ -1,4 +1,6 @@
 # wi4475_2026
+![TU Delft logo](https://raw.githubusercontent.com/robot144/wi4475_2026/main/images/tu_logo.png)
+
 Homework series for data assimilation course WI4475 for 2026 at Delft University of Technology.
 
 ## First Homework series
