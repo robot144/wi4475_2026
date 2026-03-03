@@ -14,7 +14,9 @@ Homework series for data assimilation course WI4475 for 2026 at Delft University
   - [Jupyter notebook version of homework 1](https://raw.githubusercontent.com/robot144/wi4475_2026/main/wi4475_2026_homework1.ipynb)
 
 ## Second Homework series
-_Not yet available_
+  - [pdf version of homework2](https://raw.githubusercontent.com/robot144/wi4475_2026/main/wi4475_2026_homework2.pdf)
+  - [html preview of homework 2](https://htmlpreview.github.io/?https://github.com/robot144/wi4475_2026/blob/main/wi4475_2026_homework2.html)
+  - [Jupyter notebook version of homework 2](https://raw.githubusercontent.com/robot144/wi4475_2026/main/wi4475_2026_homework2.ipynb)
 
 ## Installation instructions
 
